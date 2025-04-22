@@ -57,4 +57,4 @@
 - Высокоуровневый модуль `BikeRentalService` зависит от абстракций (`AbstractNotification`, `AbstractPrinter`, `AbstractBikeSearcher`), а не от конкретных реализаций.
 - Конкретные сервисы внедряются через конструктор.
 
-*Обновлено: 22.04.2025*
+
